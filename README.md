@@ -5,9 +5,13 @@ DMGG Bot is a powerful and automated tool designed to streamline and optimize yo
 
 # Features
 Automated Messaging: Schedule and send ads to numerous Telegram groups without manual effort.
+
 24/7 Operation: The bot works around the clock, ensuring your messages reach the target audience at all times.
+
 Customizable Settings: Adjust the number of groups, time intervals between messages, and content of the ads for tailored campaigns.
+
 Scalable: Manage multiple accounts and target numerous groups simultaneously.
+
 # Installation
 Clone the repository.
 Install dependencies using pip install -r requirements.txt.
